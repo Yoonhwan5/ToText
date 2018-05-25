@@ -16,7 +16,7 @@ Please read [CONTRIBUTING.md](https://) for details on our code of conduct, and 
 * **Yoonhwan cho**
 * **Myung jin Go**
 * **Jihun huh**
-* **yungju yu **
+* **yungju yu**
 * **gilhwan kang**
 
 
