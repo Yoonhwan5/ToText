@@ -22,7 +22,7 @@ Please read [CONTRIBUTING.md](https://) for details on our code of conduct, and 
 
 ## Authors
 
-* **Yoonhwan cho** - *Initial work* - yoonhwan(https://github.com/Yoonhwan5/Git)
+* **Yoonhwan cho** -  yoonhwan(https://github.com/Yoonhwan5/Git)
 
 
 ## License
