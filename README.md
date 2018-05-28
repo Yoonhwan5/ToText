@@ -19,12 +19,6 @@ Please read [CONTRIBUTING.md](https://) for details on our code of conduct, and 
 * **yungju yu**
 * **gilhwan kang**
 
-
-## Authors
-
-* **Yoonhwan cho** -  yoonhwan(https://github.com/Yoonhwan5/Git)
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
