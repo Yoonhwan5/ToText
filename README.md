@@ -13,9 +13,9 @@ Add additional notes about how to deploy this on a live system
 Please read [CONTRIBUTING.md](https://) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Contributor
-* **Yoonhwan cho**
-* **Myung jin Go**
-* **Jihun huh**
+* **Yoonhwan cho** [GIT](https://github.com/Yoonhwan5/Git)
+* **Myung jin Go** [GIT](https://github.com/rjs1197)
+* **Jihun huh** [GIT](https://github.com/hojihun5516)
 * **yungju yu**
 * **gilhwan kang**
 
