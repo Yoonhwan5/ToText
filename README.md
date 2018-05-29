@@ -2,9 +2,14 @@
 
 한이음 ICT Project - ToText
 
-## Deployment
+## Brief
 
-Add additional notes about how to deploy this on a live system
+시각 및 청각 장애인들을 위한 
+Mobile application for disabled people.
+
+## Installation
+
+## Deployment
 
 ## Built With
 
