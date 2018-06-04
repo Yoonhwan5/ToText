@@ -27,7 +27,7 @@ Please read for details on our code of conduct, and the process for submitting p
 ## Maintainor
 
 * **Yoonhwan cho** 
-[Gituhb](https://github.com/Yoonhwan5/Git)
+[Gituhb](https://github.com/Yoonhwan5/)
 
 * **Myung jin Go**  
 [Github](https://github.com/rjs1197)
