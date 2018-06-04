@@ -1,11 +1,14 @@
-# ToText
+# 한이음 ICT Project - ToText
 
-한이음 ICT Project - ToText
+##### 시각 및 청각 장애인들을 위한 Mobile application for disabled people.  
 
-## Brief
+<div align="center">  
 
-시각 및 청각 장애인들을 위한 
-Mobile application for disabled people.
+|**`Documentation`** | **`Contributors`** | **`License`**     |
+|-----------------|---------------------|------------------    |
+|[![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://github.com/JuniorDevelpersKR/facevalue)|[![CONTRIBUTORS](https://img.shields.io/badge/contributors-1-green.svg?style=flat-square)](https://github.com/JuniorDevelpersKR/facevalue/blob/master/CONTRIBUTING.md)|[![LICENSE](https://img.shields.io/badge/license-MIT-green.svg?sty    le=flat-square)](https://github.com/JuniorDevelpersKR/facev    alue/blob/master/LICENSE)|
+
+</div>  
 
 ## Installation
 
@@ -13,34 +16,45 @@ Mobile application for disabled people.
 
 ## Built With
 
-## Contributing
+## Contribution guidelines
 
-Please read [CONTRIBUTING.md](https://) for details on our code of conduct, and the process for submitting pull requests to us.
+**If you want to contribute to 'facevalue', be sure to review the [contribution guidelines](/CONTRIBUTING.md). This project adheres to TensorFlow's [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.**
 
-## Contributor
-* **Yoonhwan cho** [GIT](https://github.com/Yoonhwan5/Git)
-* **Myung jin Go** [GIT](https://github.com/rjs1197)
-* **Jihun huh** [GIT](https://github.com/hojihun5516)
-* **yungju yu**
-* **gilhwan kang**
+**We use [Github issues](https://github.com/JuniorDevelopersKR/ToText/issues)for tracking requests and bugs.**
+
+Please read for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Maintainor
+
+* **Yoonhwan cho** 
+[Gituhb](https://github.com/Yoonhwan5/Git)
+
+* **Myung jin Go**  
+[Github](https://github.com/rjs1197)
+
+* **Jihun huh**  
+[Github](https://github.com/hojihun5516)
+
+* **yungju yu**  
+[Github](https://github.com/YoungJooYoo)
+
+* **gilhwan kang**  
+[Github](https://github.com/KangGilHwan)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Hat tip to anyone who's code was used  
+* Inspiration  
+* etc  
 
 ## For more information
 
-* [Website]()
-* [White Papers]()
+* [Website](/)
+* [White Papers](/)
 
-Learn more about the TensorFlow community at the [community page of tensorflow.org](https://www.tensorflow.org/community) for a few ways to participate.
+We used Tensorflow. If you learn more about the TensorFlow community at the [community page of tensorflow.org](https://www.tensorflow.org/community) for a few ways to participate.
 
-## License
-
-[MIT LICENSE](LICENSE)
